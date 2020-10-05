@@ -1,0 +1,1 @@
+g++ -o "/home/root/projects/BBBProject/bin/ARM/Debug/BBBProject.out" -Wl,--no-undefined -Wl,-L"/home/root/projects/BBBProject/../../../../../../Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Auxiliary/VS/lib" -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/root/projects/BBBProject/obj/ARM/Debug/main.o
