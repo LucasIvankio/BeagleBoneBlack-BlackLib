@@ -86,16 +86,20 @@
     <LibraryPath>D:\CURSO C++\BBB\BlackLib v3.0;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="BlackADC.cpp" />
     <ClCompile Include="BlackCore.cpp" />
     <ClCompile Include="BlackGPIO.cpp" />
+    <ClCompile Include="BlackPWM.cpp" />
     <ClCompile Include="BlackTime.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BlackADC.h" />
     <ClInclude Include="BlackCore.h" />
     <ClInclude Include="BlackDef.h" />
     <ClInclude Include="BlackErr.h" />
     <ClInclude Include="BlackGPIO.h" />
+    <ClInclude Include="BlackPWM.h" />
     <ClInclude Include="BlackTime.h" />
   </ItemGroup>
   <ItemDefinitionGroup />
