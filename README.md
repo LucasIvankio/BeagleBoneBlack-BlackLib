@@ -3,4 +3,7 @@
 This project was created to show how to use BeagleBone Black and Bacon Cape shield.
 I choosed to use BlackLib that is a C++ library for BBB.
 
+Here is a link to the BlackLib repository:
+https://github.com/yigityuce/BlackLib
+
 ![BBB-BaconCape](./Black-bacon2.png)
